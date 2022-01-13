@@ -63,6 +63,14 @@ footer{
     padding: 3rem;
 }
 
+footer .sociais{
+    margin-top: 1rem;
+}
+
+footer .sociais a{
+    padding: 0.5rem;
+}
+
 .ir-topo{
     position: fixed;
     bottom: 4rem;

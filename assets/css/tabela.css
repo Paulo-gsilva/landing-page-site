@@ -28,3 +28,15 @@ table th{
     overflow: hidden;
     overflow-x: auto;
 }
+
+@media (max-width:450px){
+    #precos div h1{
+        font-size: 4rem;
+    }
+}
+
+@media (max-width:400px){
+    #precos div h1{
+        font-size: 3rem;
+    }
+}

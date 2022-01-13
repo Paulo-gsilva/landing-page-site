@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+.intro-text-content{
+    margin-top: 5rem;
+}
+
 .formulario{
     grid-column: span 2;
 }
@@ -42,3 +46,4 @@
     color: black;
     transition: 0.3s;
 }
+
